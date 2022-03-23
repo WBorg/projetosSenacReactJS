@@ -8,16 +8,8 @@ function App() {
     alert('clicou no botao');
   }
 
-
-
-
-
-
-
-
-
-
   return (
+    /*tem q ficar tudo envelopado dentro de uma tag*/
     <div >
       
         <Header/>
@@ -31,3 +23,12 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
